@@ -1,3 +1,6 @@
 Ninja is a black cat.
 He is not really a ninja.
 But there is a robot that plays with the cat.
+The cat doesn't really like the robot.
+But the robot is bigger.
+And in this case bigger is really better.
