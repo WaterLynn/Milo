@@ -1,1 +1,3 @@
 Hi this is my file.
+Milo is a horse.
+He is a tall horse.
