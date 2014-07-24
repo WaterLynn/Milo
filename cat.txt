@@ -1,0 +1,3 @@
+Ninja is a black cat.
+He is not really a ninja.
+But there is a robot that plays with the cat.
